@@ -6,7 +6,9 @@ Before:<br>
 ![ZealClumpVarients](https://github.com/ObsidianMiner/TerrariaBorderUtility/assets/69020049/48b9888a-99a7-4849-a3ae-4bc70db269af)
 <br>
 After:<br>
-![ZealClump](https://github.com/ObsidianMiner/TerrariaBorderUtility/assets/69020049/1e953b0c-f2ed-48c7-a340-ac5811c945de)
+![ZealClump](https://github.com/ObsidianMiner/TerrariaBorderUtility/assets/69020049/1e953b0c-f2ed-48c7-a340-ac5811c945de)<br>
+A style of border can be selected from a few that come with the utility. (Dirt, stone, moss, ect.)<br>
+![Grass](https://github.com/ObsidianMiner/TerrariaBorderUtility/assets/69020049/6ed5fa1f-c70e-4f7e-bbcd-53250f6e7f31)
 
 # Future Updates
 While the utilty does work, there are still some things missing in the utility that I would like to add.
