@@ -10,7 +10,9 @@ After:<br>
 A style of border can be selected from a few that come with the utility. (Dirt, stone, moss, ect.)<br>
 ![Grass](https://github.com/ObsidianMiner/TerrariaBorderUtility/assets/69020049/6ed5fa1f-c70e-4f7e-bbcd-53250f6e7f31)
 
+# Update V1.1
+The tool now supports overlays, and walls. Overlays can be added to a style by drawing on the style with the transparency being the overlays transparency on the sprite.
+
 # Future Updates
 While the utilty does work, there are still some things missing in the utility that I would like to add.
 - Dirt connection support
-- Fade on borders
